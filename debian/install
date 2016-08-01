@@ -1,0 +1,2 @@
+etc/vpc-testdeploy-selfsigned.crt /etc/ssl/certs
+etc/vpc-testdeploy-selfsigned.key /etc/ssl/keys
